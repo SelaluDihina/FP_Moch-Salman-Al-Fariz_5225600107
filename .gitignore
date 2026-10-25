@@ -37,3 +37,9 @@ runs.zip
 # OS files
 .DS_Store
 Thumbs.db
+
+# Dataset Roboflow Version 2 dan video demo/input
+object-detection-2/
+VideoInput.mp4
+VideoInput.mp4:Zone.Identifier
+best_v2.pt
